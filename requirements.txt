@@ -61,7 +61,6 @@ requests-oauthlib==2.0.0
 rich==13.7.1
 rpds-py==0.18.0
 rsa==4.9
-
 scipy==1.13.0
 six==1.16.0
 smmap==5.0.1
